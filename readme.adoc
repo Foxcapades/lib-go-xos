@@ -1,0 +1,9 @@
+= XOS
+
+`os` package without errors.
+
+Simple wrapper for common `os` standard library functions
+that panic instead of returning an error.
+
+Simply for throwing together quick scripts in Go rather than
+bash.
